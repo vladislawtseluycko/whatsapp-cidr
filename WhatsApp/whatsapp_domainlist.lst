@@ -1,27 +1,3 @@
-# ============================================================
-#
-# whatsapp_domainlist
-#
-# subdomains.domain
-#
-# List of the WhatsApp server domain and subdomains.
-#
-# Maintainer      : SecurityTrails
-# Maintainer URL  : https://securitytrails.com/
-# List source URL : https://securitytrails.com/list/apex_domain/whatsapp.com
-# List source URL : https://securitytrails.com/list/apex_domain/whatsapp.net
-#
-# Category        : domains
-# Version         : 2
-#
-# This File Date  : 2025-12-14 00:59:09
-# Update Frequency: 14th/month
-# Entries         : 2094
-#
-# (C) 2011-2025 HybridNetworks Ltd. -- All Rights Reserved
-#
-# ============================================================
-#
 api.whatsapp.com
 web.whatsapp.com
 faq.whatsapp.com
